@@ -170,7 +170,7 @@ nav {
    color: #5D6970;
 }
 
-.another-powerful {
+.powerful-mini {
    display: flex;
    justify-content: space-between;
    align-items: center;
@@ -181,7 +181,7 @@ nav {
     width: 540px;
  }
 
-.text-block {
+.mini-text-block {
    width: 445px;
 }
 
@@ -256,6 +256,7 @@ nav {
    font-weight: 500;
    line-height: 24px;
    color: #FFFFFF;
+   cursor: pointer;
 }
 
 footer {
@@ -287,6 +288,7 @@ footer {
    font-weight: 500;
    line-height: 18px;
    color: #FFFFFF;
+   cursor: pointer;
 }
 
 .bottom-footer {
@@ -302,7 +304,6 @@ footer {
    display: flex;
    justify-content: space-between;
    align-items: center;
- 
 }
 
 .site-map p {
